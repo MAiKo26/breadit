@@ -1,6 +1,6 @@
-# Breadit
+# Reddit Clone
 
-Breadit is a Reddit clone built with TypeScript, Next.js, Prisma, and Tailwind CSS.
+This Project is a Reddit clone built with TypeScript, Next.js, Prisma, and Tailwind CSS.
 
 ## Features
 
