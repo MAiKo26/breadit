@@ -1,6 +1,6 @@
 # Reddit Clone
 
-This Project is a Reddit clone built with TypeScript, Next.js, Prisma, and Tailwind CSS.
+This Project is a Reddit clone built with TypeScript, Next.js, Prisma, and Tailwind CSS. Followed this [Tutorial](https://www.youtube.com/watch?v=mSUKMfmLAt0&t=8840s) while doing this project then added some modifications.
 
 ## Features
 
